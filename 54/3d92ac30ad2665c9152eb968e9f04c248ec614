@@ -1,0 +1,9 @@
+spring-webmvc/src/test/java/org/springframework/web/servlet/DispatcherServletTests.java
+  ai_agent 1019-1036,1099-1128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "543d92ac30ad2665c9152eb968e9f04c248ec614",
+  "prompts": {}
+}
